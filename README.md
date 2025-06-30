@@ -173,17 +173,12 @@ Window:Init()
 
 ## 💾 Config Support
 
-Ionix supports **config saving out-of-the-box**! Enable it easily:
+Ionix supports **config saving out-of-the-box**! Enable it easily - ( Not Working | Beta Lib ):
 
 ```lua
 SaveConfig = true,
 ConfigFolder = "IonixConfig"
 ```
-
-> 🔐 Your users’ preferences (e.g. toggles, sliders, color pickers) will be automatically saved between executions (if supported in the executor/environment).
-
----
-
 
 ## 🧠 Credits
 
@@ -195,7 +190,7 @@ ConfigFolder = "IonixConfig"
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the [MIT License].  
 Feel free to fork, modify, and contribute! Just give proper credit. ❤️
 
 ---
